@@ -1,3 +1,5 @@
+![Reno Mujiarto](github-header-image.png)
+
 - 👋 Hi, I’m @renom2098
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data
